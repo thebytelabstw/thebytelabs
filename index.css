@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to bottom right, #fc1da7, #fba506);
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 30px;
+}
+
+#title {
+  display: inline-block;
+}
