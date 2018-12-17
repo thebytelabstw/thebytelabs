@@ -1,4 +1,3 @@
-# thebytelabs.github.io
+# [The Byte Labs](thebytelabs.github.io)
 
-Reference Site for The Byte Labs
-Created by Wayne Yu and Caitlyn Liu
+### Created by Caitlyn Liu and Wayne Yu
